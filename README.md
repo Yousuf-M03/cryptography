@@ -1,6 +1,6 @@
 # Cryptography
 This repository contains my (s244871) code for the (62712) Cryptography program.  
-The program implements Caesar and Vigenère ciphers with encryption and decryption capabilities via a command-line interface.  
+The program implements Caesar and Vigenère ciphers with encryption and decryption capabilities.  
 Below is the flowchart showing the program's process:
 
 ![Flowchart of Cryptography program](crypto_flowchart.png)
